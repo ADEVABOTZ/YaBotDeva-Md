@@ -42,7 +42,7 @@ global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Deva24Botz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'Deva24Ofc' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
